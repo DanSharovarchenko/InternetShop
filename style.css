@@ -1,0 +1,36 @@
+.firPic {
+width: 1535px;
+height: 700px;
+padding-left: 305px;
+padding-top: 200px;
+}
+.secPic {
+width: 1535px;
+height: 700px;
+padding-left: 305px;
+padding-top: 200px;
+}
+.thiPic {
+width: 1535px;
+height: 700px;
+padding-left: 305px;
+padding-top: 200px;
+}
+.recommendation{
+    padding-left: 303px;
+    padding-right: 330px;
+    padding-top:150px;
+}
+.items{
+    padding-top: 150px;
+    padding-left: 300px;
+    padding-right: 260px;
+}
+.smallRecommendation{
+    padding-left: 303px;
+    padding-right: 330px;
+    padding-top:50px;
+}
+.space{
+    padding-top: 200px;
+}
